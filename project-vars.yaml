@@ -1,0 +1,3 @@
+version: 1.0.0
+location: /Users/alban/ansible/nodejs-app
+linux_name: node
